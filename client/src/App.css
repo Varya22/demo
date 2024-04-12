@@ -1,0 +1,19 @@
+.forfont {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+.outline-green {
+    border: 2px solid #0025f7;
+    color: #0025f7;
+    font-weight: 500;
+    background-color: transparent;
+}
+
+.navbarbrand{
+    color: #0025f7;
+    font-weight: 700
+}
+
